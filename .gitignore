@@ -1,0 +1,9 @@
+.idea/*
+META-INF/*
+out/*
+src/META-INF/*
+module_sarrumai.xml
+SarrumAI.iml
+sarrumai.properties
+sarrumai.xml
+sets.dat
